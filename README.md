@@ -1,3 +1,3 @@
 # ASP.NET-MVC-CRUD-Repository-Pattern
 
-Link To view live app: https://crud-repository-pattern.somee.com/
+Link To view live app: http://crud-repository-pattern.somee.com/
