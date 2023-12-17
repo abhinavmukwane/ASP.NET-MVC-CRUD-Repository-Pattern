@@ -1,0 +1,15 @@
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\bin\Release\net7.0\CRUD_Repository.Infrastructure.deps.json
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\bin\Release\net7.0\CRUD_Repository.Infrastructure.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\bin\Release\net7.0\CRUD_Repository.Infrastructure.pdb
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\bin\Release\net7.0\CRUD_Repository.Core.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\bin\Release\net7.0\CRUD_Repository.Core.pdb
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.AssemblyInfo.cs
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.csproj.CopyComplete
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\refint\CRUD_Repository.Infrastructure.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\CRUD_Repository.Infrastructure.pdb
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Infrastructure\obj\Release\net7.0\ref\CRUD_Repository.Infrastructure.dll

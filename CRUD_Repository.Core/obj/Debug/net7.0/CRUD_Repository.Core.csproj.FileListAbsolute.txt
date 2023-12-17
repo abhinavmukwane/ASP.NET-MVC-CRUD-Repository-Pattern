@@ -1,0 +1,12 @@
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\bin\Debug\net7.0\CRUD_Repository.Core.deps.json
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\bin\Debug\net7.0\CRUD_Repository.Core.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\bin\Debug\net7.0\CRUD_Repository.Core.pdb
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.csproj.AssemblyReference.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.AssemblyInfoInputs.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.AssemblyInfo.cs
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.csproj.CoreCompileInputs.cache
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\refint\CRUD_Repository.Core.dll
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\CRUD_Repository.Core.pdb
+C:\Users\abhin\.Net\CRUD_Repository\CRUD_Repository.Core\obj\Debug\net7.0\ref\CRUD_Repository.Core.dll

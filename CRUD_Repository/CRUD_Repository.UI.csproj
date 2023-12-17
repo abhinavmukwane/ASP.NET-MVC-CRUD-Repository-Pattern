@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD_Repository.Core\CRUD_Repository.Core.csproj" />
+    <ProjectReference Include="..\CRUD_Repository.Infrastructure\CRUD_Repository.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
